@@ -134,7 +134,7 @@ python python/03_grid_transfer.py
 If you use this code, please cite:
 
 ```
-(Your paper info here)
+A Spatially-Adaptive Automated Sample Generation Framework via Multi-Source Phenological Fusion for Large-Scale Crop Mapping: Demonstrated on Peanuts in Shandong, China
 ```
 
 ---
@@ -143,7 +143,7 @@ If you use this code, please cite:
 
 For questions, please contact:
 
-* Author: (Your Name)
-* Email: (your email)
+* Author: hualin cao
+* Email: 2176518050@qq.com
 
 ---
