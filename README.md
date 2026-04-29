@@ -38,6 +38,7 @@ SAASG_py/
 │
 ├── results/                      # Output results (curves, maps, samples)
 ├── requirements.txt
+├── result_img.png
 └── README.md
 ```
 
