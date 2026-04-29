@@ -1,4 +1,4 @@
-# SAASG-MS-TWDTW
+# SAASG
 
 A Multi-Source Time-Weighted Dynamic Time Warping framework for large-scale crop mapping with spatial transfer.
 
