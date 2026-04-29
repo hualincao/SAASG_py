@@ -144,6 +144,6 @@ A Spatially-Adaptive Automated Sample Generation Framework via Multi-Source Phen
 For questions, please contact:
 
 * Author: Hualin Cao
-* Email: 2176518050@qq.cpm
+* Email: 2176518050@qq.com
 
 ---
