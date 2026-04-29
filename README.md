@@ -1,4 +1,4 @@
-# SAASG
+# SAASG_py
 
 A Multi-Source Time-Weighted Dynamic Time Warping framework for large-scale crop mapping with spatial transfer.
 
@@ -19,7 +19,7 @@ The framework integrates **Sentinel-1 SAR + Sentinel-2 optical features (NDVI, C
 ## 📁 Project Structure
 
 ```
-SAASG/
+SAASG_py/
 ├── gee/
 │   ├── data_preprocess.py        # Sentinel-1 / Sentinel-2 data preprocessing
 │   └── feature_extraction.py     # NDVI, CNDVI, SAR feature construction
